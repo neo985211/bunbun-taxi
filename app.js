@@ -1,9 +1,9 @@
 const APP_CONFIG = {
   driverName: "笨笨",
-  phoneNumber: "13800000000",
+  phoneNumber: "13268782431",
   carModel: "黄佳怡的专属小车",
   plateNumber: "粤A EK3226",
-  etaMinutes: 3,
+  etaMinutes: 520,
   autoOpenDialerAfterAccepted: false,
 };
 
